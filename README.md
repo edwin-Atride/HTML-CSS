@@ -23,9 +23,5 @@
 
 <section>
 
-<footer>
-    <p>BTS SIO – Option SLAM | Développement d’applications et solutions logicielles</p>
-</footer>
-
 </body>
 </html>
